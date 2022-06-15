@@ -19,6 +19,7 @@ __Dell Expert:__ [![Generic badge](https://img.shields.io/badge/-Dell%20Expert%2
 
 
 ## Lovely 💓 Tecnologies
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisonsouza&show_icons=true)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-01122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-01122A?style=flat&logo=python)
@@ -33,6 +34,7 @@ __Dell Expert:__ [![Generic badge](https://img.shields.io/badge/-Dell%20Expert%2
 ![Wordpress](https://img.shields.io/badge/-Wordpress-01122A?style=flat&logo=wordpress)
 ![Rancher](https://img.shields.io/badge/-Rancher-01122A?style=flat&logo=rancher)
 ![Portainer](https://img.shields.io/badge/-Portainer-01122A?style=flat&logo=portainer)
+
 
 
 
