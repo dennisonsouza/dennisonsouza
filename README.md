@@ -17,8 +17,6 @@ __Profile Views:__ <img src="https://komarev.com/ghpvc/?username=dennisonsouza&c
 
 __Dell Expert:__ [![Generic badge](https://img.shields.io/badge/-Dell%20Expert%20Elite-01122A?style=flat&logo=dell)](https://www.programaexpertnetwork.com.br/consultores-elite-certificados/dennison-souza-santos-id-17544/)
 
-
-## Lovely 💓 Tecnologies
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisonsouza&show_icons=true)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-01122A?style=flat&logo=javascript)
